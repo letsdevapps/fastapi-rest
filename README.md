@@ -77,3 +77,9 @@ Acessível na rede local
 Porta customizada
 
     uvicorn main:app --port 5000 --reload
+
+## Docker
+
+    docker build -t fastapi-rest .
+
+    docker run --rm -it -p 8000:8000 --name fastapi-rest fastapi-rest
