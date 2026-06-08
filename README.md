@@ -1,5 +1,9 @@
 # FastAPI Rest
 
+![GitHub release](https://img.shields.io/github/v/release/letsdevapps/fastapi-rest)
+![GitHub last commit](https://img.shields.io/github/last-commit/letsdevapps/fastapi-rest)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/letsdevapps/fastapi-rest/build-ci.yml)
+
 ## Pycharm
 
 Projeto criado com o Pycharm no Ubuntu, Isso instala a versão Community (gratuita)
